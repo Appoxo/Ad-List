@@ -1,21 +1,11 @@
-127.0.0.0 tvx.adgrx.com
-127.0.0.0 osb.samsungqbe.com
-127.0.0.0 acr-eu-prd.internetat.tv
-127.0.0.0 graph.facebook.com
-127.0.0.0 ggpht.com
-127.0.0.0 googlevideo.com
-127.0.0.0 gvt3.com
-127.0.0.0 youtube-ui.l.google.com
-127.0.0.0 youtubei.googleapis.com
-127.0.0.0 ytimg.com
-# 127.0.0.0 
-# 127.0.0.0 
-# 127.0.0.0 
-# 127.0.0.0 
-# 127.0.0.0 
-# 127.0.0.0 
-# 127.0.0.0 
-# 127.0.0.0 
-# 127.0.0.0 
-# 127.0.0.0 
-# 127.0.0.0 
+tvx.adgrx.com
+osb.samsungqbe.com
+acr-eu-prd.internetat.tv
+graph.facebook.com
+ggpht.com
+googlevideo.com
+gvt3.com
+ytimg.com
+r1---sn-8xgn5uxa-4g5e.googlevideo.com
+r2---sn-8xgn5uxa-4g5l.gvt1.com
+r7---sn-8xgn5uxa-4g5e.googlevideo.com
