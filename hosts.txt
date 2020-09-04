@@ -10,3 +10,6 @@ r1---sn-8xgn5uxa-4g5e.googlevideo.com
 r2---sn-8xgn5uxa-4g5l.gvt1.com
 r7---sn-8xgn5uxa-4g5e.googlevideo.com
 d2s336w63pl2vv.cloudfront.net
+34.96.113.148
+collect14853cntrl.deltadna.net
+balanced-collect.deltadna.net
