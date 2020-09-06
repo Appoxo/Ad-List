@@ -13,3 +13,5 @@ d2s336w63pl2vv.cloudfront.net
 34.96.113.148
 collect14853cntrl.deltadna.net
 balanced-collect.deltadna.net
+prderrordumphsm.samsungcloudsolution.com
+d2s336w63pl2vv.cloudfront.net
