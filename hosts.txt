@@ -1,5 +1,11 @@
 #Random
 graph.facebook.com
+me-ssl.effectivemeasure.net
+edigitalsurvey.com
+chartbeat.com
+scorecardresearch.com
+permutive.com
+
 
 #---------------------------------------------------------------------------------------------#
 ## MEDIA ##
