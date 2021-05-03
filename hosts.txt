@@ -25,6 +25,15 @@ vtracy.de
 selfservice.plista.com
 plista.com
 
+bidr.io
+optout.prod.bidr.io
+nexage.com
+guce.nexage.com
+guce.adtechjp.com
+adtechjp.com
+opt-out.zdbb.net
+advertising.com
+
 
 #---------------------------------------------------------------------------------------------#
 
