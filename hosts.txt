@@ -33,6 +33,8 @@ guce.adtechjp.com
 adtechjp.com
 opt-out.zdbb.net
 advertising.com
+media.revenuenetwork.com
+revenuenetwork.com
 
 
 #---------------------------------------------------------------------------------------------#
