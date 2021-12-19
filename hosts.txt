@@ -45,7 +45,7 @@ pfmsqos.southafricanorth.cloudapp.azure.com
 pfmsqos.southcentralus.cloudapp.azure.com
 pfmsqos.japaneast.cloudapp.azure.com
 pfmsqos.japanwest.cloudapp.azure.com
-pfmsqos.northeurope.cloudapp.azure.com
+# pfmsqos.northeurope.cloudapp.azure.com
 pfmsqos.westus.cloudapp.azure.com
 pfmsqos.westus2.cloudapp.azure.com
 pfmsqos.northcentralus.cloudapp.azure.com
