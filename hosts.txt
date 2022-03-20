@@ -1,7 +1,5 @@
 # 505 Games
-148.113.96.34.bc.googleusercontent.com
 collect16548ghstr.deltadna.net
-balanced-collect.deltadna.net
 
 # Adobe
 e4578.dscb.akamaiedge.net
@@ -20,24 +18,84 @@ redshift.us-east-1.amazonaws.com
 redshift.us-west-2.amazonaws.com
 redshift.us-gov-west-1.amazonaws.com
 
-#Epic Games - Satisfactory
-3.223.253.136
-3.123.128.174
-3.121.217.224
-172.67.222.87
-3.227.34.162
-100.25.206.154
-52.0.181.95
-euc-1-prod.stun.euc1a.on.epicgames.com
-euc-2-prod.stun.euc1a.on.epicgames.com
-stun-1-nat.ol.epicgames.com
-stun-2-nat.ol.epicgames.com
-ipv6check-udp.steamcontent.com
-ipv6check-http.steamcontent.com
-ingamenews.satisfactorygame.com # Ingamenews
-api.epicgames.dev # Anmeldetoken, SDKabgleich, Telemetrie, Matchmaking und nochmal als Websocket präsent
-metrics.ol.epicgames.com
-api.stathat.com
+# Amplitude
+ec2-52-26-54-44.us-west-2.compute.amazonaws.com
+api.amplitude.com
+cdn.amplitude.com
+
+# AppsFlyer
+a2-16-186-73.deploy.static.akamaitechnologies.com
+ec2-63-32-163-181.eu-west-1.compute.amazonaws.com
+events.appsflyer.com
+t.appsflyer.com
+stats.appsflyer.com
+register.appsflyer.com
+impression.appsflyer.com
+app.appsflyer.com
+api.appsflyer.com
+fvalid.appsflyer.com
+
+# Avalanche Studios | Fatalist Development AB
+tracking.avalanchestudios.com
+tracking2.avalanchestudios.com
+conf.avalanchestudios.com
+cotw-assets.thehunter.com
+thp-social.avalanchestudios.com
+genzero-social.avalanchestudios.com
+crashreporter.avalanchestudios.com
+users.avalanchestudios.com
+metrics.avalanchestudios.com
+oldtracking.avalanchestudios.com
+# Blizzard Entertainment Inc.
+a72-247-153-48.deploy.static.akamaitechnologies.com
+bneteu-a.akamaihd.net
+bs.serving-sys.com
+ec2-63-34-238-32.eu-west-1.compute.amazonaws.com
+col.eum-appdynamics.com
+match.adsrvr.org
+jssdks.mparticle.com
+bnetcmsus-a.akamaihd.net
+logx.optimizely.com
+cookiesync.mparticle.com
+jssdkcdns.mparticle.com
+www.facebook.com
+identity.mparticle.com
+cm.g.doubleclick.net
+a8270235338.cdn.optimizely.com
+#Geodaten
+http://nydus.battle.net/geoip
+#Hardwaredaten
+ec2-54-77-237-127.eu-west-1.compute.amazonaws.com
+iir.blizzard.com
+
+# Buffpanel
+cellense.com
+api.buffpanel.com
+buffpanel.com
+
+# deltaDNA Game Analytics
+balanced-collect.deltadna.net
+collect14010thrnb.deltadna.net # Thronebreaker: The Witcher Tales
+collect3515gvrnr.deltadna.net # Governor of Poker 3
+engage3515gvrnr.deltadna.net # Governor of Poker 3
+collect11772tmntp.deltadna.net # Teenage Mutant Ninja Turtles: Portal Power
+collect5588rmtct.deltadna.net # Arma Tactics
+collect13452trpc6.deltadna.net # Tropico 6
+collect9543hvjmp.deltadna.net # Hive Jump
+collect13623ww19v.deltadna.net # WWE 2K19
+collect14853cntrl.deltadna.net # Control: Ultimate Edition
+148.113.96.34.bc.googleusercontent.com
+h31-3-232-184.host.redstation.co.uk
+collect14853cntrl.deltadna.net
+
+# Epic Games Inc.
+datarouter.ol.epicgames.com
+datarouter-weighted.ol.epicgames.com
+datarouter-prod.ak.epicgames.com
+ec2-52-55-140-235.compute-1.amazonaws.com oder ec2-18-233-90-22.compute-1.amazonaws.com
+datarouter-svc-prod06-public-49221551.us-east-1.elb.amazonaws.com
+api.epicgames.dev
+eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com
 
 # Facebook
 graph.facebook.com
@@ -47,6 +105,13 @@ view.atdmt.com
 connect.facebook.net
 staticxx.facebook.com
 xx-fbcdn-shv-01-prg1.fbcdn.net
+
+# Flurry Analytics
+e1.ycpi.vip.deb.yahoo.com
+data.flurry.com
+cdn.flurry.com
+adlog.flurry.com
+ads.flurry.com
 
 # GameAnalytics
 api.gameanalytics.com
@@ -72,10 +137,40 @@ ec2-54-165-16-168.compute-1.amazonaws.com
 ec2-54-227-196-34.compute-1.amazonaws.com
 live-collect-blue-lb-184443518.us-east-1.elb.amazonaws.com
 
+# Gamesight
+console.gamesight.io
+api.ingest.marketing.gamesight.io
+track-api.gamesight.io
+
 # Google
 www.google-analytics.com
 ssl.google-analytics.com
 www-google-analytics.l.google.com
+mba01s07-in-f14.1e100.net
+sin26s07-in-f14.1e100.net
+lhr25s28-in-f14.1e100.net
+fra24s01-in-f14.1e100.net
+si-in-f102.1e100.net
+fra15s16-in-f14.1e100.net
+sof02s47-in-f14.1e100.net
+fra16s42-in-f14.1e100.net
+fjr04s11-in-f14.1e100.net
+waw02s17-in-f14.1e100.net
+sin10s02-in-f14.1e100.net
+arn09s19-in-f14.1e100.net
+fra32s02-in-f14.1e100.net
+par10s29-in-f14.1e100.net
+sin11s01-in-f238.1e100.net
+kix05s02-in-f14.1e100.net
+arn11s03-in-f14.1e100.net
+arn11s02-in-f14.1e100.net
+muc03s13-in-f14.1e100.net
+sc-in-f157.1e100.net
+googleads.g.doubleclick.net
+stats.g.doubleclick.net
+stats.l.doubleclick.net
+script.google.com
+script.googleusercontent.com
 
 # Halo Infinite Unwanted Servers
 ## pfmsqos.northeurope.cloudapp.azure.com
@@ -95,13 +190,178 @@ pfmsqos.southeastasia.cloudapp.azure.com
 pfmsqos.japaneast.cloudapp.azure.com
 pfmsqos.japanwest.cloudapp.azure.com
 
+# ironSource
+a104-124-11-24.deploy.static.akamaitechnologies.com
+ec2-52-20-60-144.compute-1.amazonaws.com
+ec2-52-20-219-15.compute-1.amazonaws.com
+server-54-240-168-74.ams54.r.cloudfront.net
+server-143-204-101-81.fra50.r.cloudfront.net
+server-13-225-78-6.fra2.r.cloudfront.net
+server-13-225-78-15.fra2.r.cloudfront.net
+ec2-52-20-131-127.compute-1.amazonaws.com
+pixel-tracking.sonic-us.supersonicads.com
+click-haproxy.supersonicads.com
+supersonicads-a.akamaihd.net
+init.supersonicads.com Sdk
+outcome-ssp.supersonicads.com Mediation
+outcome.supersonicads.com
+logs.supersonic.com Logdateien
+is-gateway.supersonicads.com Callbacks
+ow-gateway.supersonicads.com
+pm-gateway.supersonicads.com
+rv-gateway.supersonicads.com
+a23-210-252-239.deploy.static.akamaitechnologies.com
+server-13-224-198-245.fra2.r.cloudfront.net
+server-13-224-196-108.fra2.r.cloudfront.net
+server-13-225-78-7.fra2.r.cloudfront.net
+networksdk.ssacdn.com
+www.ssacdn.com
+v.ssacdn.com
+static.ssacdn.com
+
+# Klei Entertainment
+kleianalyticsfrontend.elasticbeanstalk.com
+metric.kleientertainment.com
+kleianalyticsfrontend.elasticbeanstalk.com (Amazon Cloud Dienst)
+perf-events.cloud.unity3d.com
+oni.metrics.klei.com
+jwt.metrics.klei.com
+jwtcollector.kleientertainment.com
+dst.metrics.klei.com
+ni.metrics.klei.com
+ds.metrics.klei.com
+ec2-34-236-69-189.compute-1.amazonaws.com
+ec2-52-6-54-1.compute-1.amazonaws.com
+ec2-34-231-207-192.compute-1.amazonaws.com
+ec2-52-201-125-219.compute-1.amazonaws.com
+ec2-34-211-23-135.us-west-2.compute.amazonaws.com
+
+# Microsoft
+f3b6.playfabapi.com # Rico
+41dc.playfabapi.com # Realm Grinder
+27d9.playfabapi.com # Skara - The Blade Remains
+9092.playfabapi.com # Legion TD 2
+5f03.playfabapi.com # High Profits
+558C.playfabapi.com # Sunset Overdrive
+ee38.playfabapi.com # Halo: The Masterchief Collection
+
+# Mixpanel
+decide.mixpanel.com
+api.mixpanel.com
+cdn.mxpnl.com
+cdn4.mxpnl.com
+api-js.mixpanel.com
+253.25.190.35.bc.googleusercontent.com
+23.235.186.35.bc.googleusercontent.com
+25.25.190.35.bc.googleusercontent.com
+159.240.178.107.bc.googleusercontent.com
+51.241.186.35.bc.googleusercontent.com
+
+# NinjaKiwi
+analytics.ninjakiwi.com
+api.ninjakiwi.com
+static-api.nkstatic.com
+priority-static-api.nkstatic.com
+
+# Piwik
+piwikcm03.cmcitymedia.de
+piwik.bayreuth.de
+piwik.berlinonline.de
+statistik.kdrs.de
+piwik.documentfoundation.org
+piwik.up.welt.de
+
+# Rayjump/Mintegral
+setting.rayjump.com
+net.rayjump.com
+analytics.rayjump.com
+cdn-adn-https.rayjump.com
+hybird.rayjump.com
+ec2-18-185-169-11.eu-central-1.compute.amazonaws.com
+ec2-54-93-145-28.eu-central-1.compute.amazonaws.com
+
 #SamsungTV
 tvx.adgrx.com
 osb.samsungqbe.com
 acr-eu-prd.internetat.tv
 prderrordumphsm.samsungcloudsolution.com
 d2s336w63pl2vv.cloudfront.net
-d2s336w63pl2vv.cloudfront.net
+
+# Satisfactory
+ec2-3-223-253-136.compute-1.amazonaws.com
+ec2-3-123-128-174.eu-central-1.compute.amazonaws.com
+ec2-3-121-217-224.eu-central-1.compute.amazonaws.com
+ec2-3-227-34-162.compute-1.amazonaws.com
+ec2-100-25-206-154.compute-1.amazonaws.com
+ec2-52-0-181-95.compute-1.amazonaws.com
+euc-1-prod.stun.euc1a.on.epicgames.com
+euc-2-prod.stun.euc1a.on.epicgames.com
+stun-1-nat.ol.epicgames.com
+stun-2-nat.ol.epicgames.com
+ipv6check-udp.steamcontent.com
+ipv6check-http.steamcontent.com
+ingamenews.satisfactorygame.com # Ingamenews
+api.epicgames.dev # Anmeldetoken, SDKabgleich, Telemetrie, Matchmaking und nochmal als Websocket präsent
+metrics.ol.epicgames.com
+api.stathat.com
+
+# Sega Games Co., Ltd.
+hull.sgaas.net
+garry.sgaas.net
+sgaas-vpc-garry-public-elb-644092612.eu-west-1.elb.amazonaws.com
+
+# TrackJS
+prd-capture-1.tjsint.net
+prd-capture-2.tjsint.net
+prd-capture-3.tjsint.net
+prd-usage-1.tjsint.net
+prd-usage-2.tjsint.net
+prd-usage-3.tjsint.net
+
+# TreasureData
+in.treasuredata.com
+cdn.treasuredata.com
+tokyo.in.treasuredata.com
+cdp.in.treasuredata.com
+ec2-34-202-72-93.compute-1.amazonaws.com
+
+# Unity Technologies
+remote-config-proxy-prd.uca.cloud.unity3d.com
+thind-gke-euw.prd.data.corp.unity3d.com
+thind-gke-ape.prd.data.corp.unity3d.com
+thind-gke-usc.prd.data.corp.unity3d.com
+config.uca.cloud.unity3d.com
+cdp.cloud.unity3d.com
+api.uca.cloud.unity3d.com
+229.52.241.35.bc.googleusercontent.com
+234.88.190.35.bc.googleusercontent.com
+53.26.241.35.bc.googleusercontent.com
+186.194.186.35.bc.googleusercontent.com
+14.181.107.34.bc.googleusercontent.com
+150.252.227.35.bc.googleusercontent.com
+userreporting.cloud.unity3d.com
+ap1-prod-mm.unet.unity3d.com
+hwstats.uca.cloud.unity3d.com
+stats.unity3d.com
+prd-lender.cdp.internal.unity3d.com
+8.78.190.35.bc.googleusercontent.com
+217.76.95.34.bc.googleusercontent.com
+ec2-3-1-14-112.ap-southeast-1.compute.amazonaws.com
+ec2-52-220-179-77.ap-southeast-1.compute.amazonaws.com
+config.unityads.unity3d.com
+ecommerce.iap.unity3d.com
+events.iap.unity3d.com
+auction.unityads.unity3d.com
+publisher-config.unityads.unity3d.com
+cdn-highwinds.unityads.unity3d.com
+webview.unityads.unity3d.com
+ads-brand-postback.unityads.unity3d.com
+tracking.prd.mz.internal.unity3d.com
+pge.unityads.unity3d.com
+cdn-webview-pge.unityads.unity3d.com
+sdk-diagnostics.prd.mz.internal.unity3d.com
+httpkafka.unityads.unity3d.com
+publisher-event.unityads.unity3d.com
 
 #YouTube
 googlevideo.com
@@ -111,9 +371,7 @@ r7---sn-8xgn5uxa-4g5e.googlevideo.com
 
 #Leftover from YourOnlineChoices
 sportradarserving.com
-spot.im
 semasio.net
-plista.com
 outbrain.com
 rakutenmarketing.com
 neodatagroup.com
@@ -121,10 +379,7 @@ ipromote.com
 emerse.com
 
 # Diverse
-adtechjp.com
-nexage.com
 ad-choices.spot.im
-advertising.com
 zdbb.net
 choice.msn.com
 zemanta.com
@@ -136,7 +391,6 @@ datafront.co
 vtracy.de
 selfservice.plista.com
 plista.com
-
 bidr.io
 optout.prod.bidr.io
 nexage.com
@@ -147,7 +401,6 @@ opt-out.zdbb.net
 advertising.com
 media.revenuenetwork.com
 revenuenetwork.com
-
 me-ssl.effectivemeasure.net
 edigitalsurvey.com
 chartbeat.com
