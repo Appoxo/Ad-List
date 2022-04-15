@@ -379,6 +379,7 @@ ipromote.com
 emerse.com
 
 # Diverse
+sentry.io
 ad-choices.spot.im
 zdbb.net
 choice.msn.com
