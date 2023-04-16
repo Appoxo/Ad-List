@@ -173,6 +173,7 @@ script.google.com
 script.googleusercontent.com
 
 # Halo Infinite Unwanted Servers
+# WARNING: The configured servers will also block Halo:MCC from functioning. Disable pihole when playing Halo:MCC!
 ## pfmsqos.northeurope.cloudapp.azure.com
 ## pfmsqos.westeurope.cloudapp.azure.com
 ## pfmsqos.eastus2.cloudapp.azure.com
