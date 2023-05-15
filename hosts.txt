@@ -1,3 +1,7 @@
+# Potentially malicious TLDs
+(\.|^)zip$
+(\.|^)mov$
+
 # 505 Games
 collect16548ghstr.deltadna.net
 
