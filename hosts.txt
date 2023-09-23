@@ -249,6 +249,9 @@ f3b6.playfabapi.com # Rico
 5f03.playfabapi.com # High Profits
 558C.playfabapi.com # Sunset Overdrive
 ee38.playfabapi.com # Halo: The Masterchief Collection
+# Visual Studio Code
+*.tunnels.api.visualstudio.com
+*.devtunnels.ms
 
 # Mixpanel
 decide.mixpanel.com
