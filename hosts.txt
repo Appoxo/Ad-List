@@ -175,6 +175,10 @@ stats.g.doubleclick.net
 stats.l.doubleclick.net
 script.google.com
 script.googleusercontent.com
+#AndroidTV
+androidtvwatsonfe-pa.googleapis.com
+androidtvchannels-pa.googleapis.com
+androidtvlauncherxfe-pa.googleapis.com
 
 # Halo Infinite Unwanted Servers
 # WARNING: The configured servers will also block Halo:MCC from functioning. Disable pihole when playing Halo:MCC!
