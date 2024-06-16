@@ -182,22 +182,22 @@ androidtvlauncherxfe-pa.googleapis.com
 
 # Halo Infinite Unwanted Servers
 # WARNING: The configured servers will also block Halo:MCC from functioning. Disable pihole when playing Halo:MCC!
-## pfmsqos.northeurope.cloudapp.azure.com
-## pfmsqos.westeurope.cloudapp.azure.com
-## pfmsqos.eastus2.cloudapp.azure.com
-## pfmsqos.eastus.cloudapp.azure.com
-# pfmsqos.westus.cloudapp.azure.com
-# pfmsqos.westus2.cloudapp.azure.com
-# pfmsqos.northcentralus.cloudapp.azure.com
-# pfmsqos.centralus.cloudapp.azure.com
-pfmsqos.australiaeast.cloudapp.azure.com
-pfmsqos.southcentralus.cloudapp.azure.com
-pfmsqos.southafricanorth.cloudapp.azure.com
-pfmsqos.brazilsouth.cloudapp.azure.com
-pfmsqos.eastasia.cloudapp.azure.com
-pfmsqos.southeastasia.cloudapp.azure.com
-pfmsqos.japaneast.cloudapp.azure.com
-pfmsqos.japanwest.cloudapp.azure.com
+#pfmsqos.northeurope.cloudapp.azure.com
+#pfmsqos.westeurope.cloudapp.azure.com
+#pfmsqos.eastus2.cloudapp.azure.com
+#pfmsqos.eastus.cloudapp.azure.com
+#pfmsqos.westus.cloudapp.azure.com
+#pfmsqos.westus2.cloudapp.azure.com
+#pfmsqos.northcentralus.cloudapp.azure.com
+#pfmsqos.centralus.cloudapp.azure.com
+#pfmsqos.australiaeast.cloudapp.azure.com
+#pfmsqos.southcentralus.cloudapp.azure.com
+#pfmsqos.southafricanorth.cloudapp.azure.com
+#pfmsqos.brazilsouth.cloudapp.azure.com
+#pfmsqos.eastasia.cloudapp.azure.com
+#pfmsqos.southeastasia.cloudapp.azure.com
+#pfmsqos.japaneast.cloudapp.azure.com
+#pfmsqos.japanwest.cloudapp.azure.com
 
 # ironSource
 a104-124-11-24.deploy.static.akamaitechnologies.com
