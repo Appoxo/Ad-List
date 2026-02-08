@@ -1,3 +1,8 @@
-# Here will be ips placed that have overstayed their welcome
-# Most likely entries from my firewall log
+#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#
+# Here will be IPs logged that have overstayed their welcome    #
+# Most likely entries from my firewall log                      #
+#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#
+
+
+# https://app.crowdsec.net/cti/79.124.49.146
 79.124.49.146
